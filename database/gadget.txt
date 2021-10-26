@@ -1,0 +1,2 @@
+Charger HP,25,2,1
+Laptop,60,18,1
